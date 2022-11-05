@@ -15,13 +15,15 @@ Determens the current location search radius.
 
 <br>
 
-**Color based rating**
+**Rating and location details**
 
 Green marked locations represent above average rating.
 
 Yellow marked locations represent below average rating.
 
 Average rating is the mean value of found cafe ratings.
+
+Found cafe data is bound in a list view.
 
 <br>
 
