@@ -18,8 +18,10 @@ Determens the current location search radius.
 **Color based rating**
 
 Green marked locations represent above average rating.
-Yellow marked locations repserent below average rating.
-Average rating is the mean value of current Google ratings.
+
+Yellow marked locations represent below average rating.
+
+Average rating is the mean value of found cafe ratings.
 
 <br>
 
