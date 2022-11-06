@@ -31,7 +31,7 @@ Found cafe data is bound in a list view.
 
 Each review is saved in the Firebase Realtime Database as a [{UUID} - {text}] value.
 
-{IMAGE}
+<img src="./readme_resources/firebase-database.png" height=270 width=auto>
 
 <br>
 
