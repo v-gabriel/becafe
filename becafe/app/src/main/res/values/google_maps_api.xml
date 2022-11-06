@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Variant: debug
+    Config: debug
+    Store: /*       */
+    Alias: AndroidDebugKey
+    MD5: /*     */
+    SHA1: /*    */
+    SHA-256: /*     */
+    Valid until: Saturday, 18 November 2051
+    -->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">/*INSERT KEY HERE*/</string>
+
+
+</resources>

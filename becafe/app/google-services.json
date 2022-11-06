@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608665643354",
+    "project_id": "becafedata",
+    "storage_bucket": "becafedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608665643354:android:0d837a58bc15bff98aeb63",
+        "android_client_info": {
+          "package_name": "hr.ferit.gabrielveselovac.becafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608665643354-i2563d337ukcb8f09t1u2hcfbudvuer4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.ferit.gabrielveselovac.becafe",
+            "certificate_hash": "0a510a786ee46156375bea0bd7ce43afbde1378b"
+          }
+        },
+        {
+          "client_id": "608665643354-6pc2742c512auca5735adop1c2a2gpfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw2RFrq9S3TwgMvKoypM1UFhV7rzc3XrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608665643354-6pc2742c512auca5735adop1c2a2gpfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

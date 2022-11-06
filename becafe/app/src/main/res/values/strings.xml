@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BeCafé</string>
+
+    <!-- Button text -->
+    <string name="help">HELP</string>
+    <string name="rate">RATE</string>
+    <string name="find_a_cafe">FIND A CAFE</string>
+    <string name="submit_review">SUBMIT</string>
+
+    <!-- Help fragment information-->
+    <string name="info1text">The app searches automatically based on your location and café rating.</string>
+    <string name="noteText"><b>Note:</b> the app needs <b>location permission</b> in order to function.</string>
+    <string name="info2text">Click the <b>list button</b> to see the found cafés.</string>
+    <string name="info3text">Click on <b>radius icon</b> to change the search radius ( [m] ).</string>
+    <string name="info4text"><font fgcolor="#FFFFD966">Yellow markers</font> represent locations with below average rating.</string>
+    <string name="info5text"><font fgcolor="#FF37CD37">Green markers</font> represent locations with above average rating.</string>
+    <string name="noteText2"><i>(average rating is calculated by the combination of found locations)</i></string>
+    <string name="info6text"><b>That\'s it! Enjoy. :) </b></string>
+
+    <!-- Radius Options -->
+    <string name="radiusOption1">250m</string>
+    <string name="radiusOption2">500m</string>
+    <string name="radiusOption3">700m</string>
+    <string name="radiusOption4">900m</string>
+
+    <string name="noDataAvailable"><i>[ No data available ]</i></string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetBottom="0dp">
+
+    <shape android:shape="rectangle">
+        <solid android:color="@color/primary_button_pressed" />
+        <stroke android:width="1dp" android:color="@color/primary_button_idle"/>
+        <corners android:radius="0dp" />
+    </shape>
+
+</inset>
