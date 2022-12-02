@@ -31,11 +31,34 @@ Found cafe data is bound in a list view.
 
 Each review is saved in the Firebase Realtime Database as a [{UUID} - {text}] value.
 
-<img src="./readme_resources/firebase-database.png" height=270 width=auto>
+<img src="./readme_resources/firebase-database.png" height=150 width=auto>
 
 <br>
 
 ## Demo
+
+**Setting up an API key**
+
+For the app to function, a Google maps API key is required to be added ([click here to see how to manage API keys](https://developers.google.com/maps/documentation/javascript/get-api-key)).
+
+Files in which to add the key:
+
+*google_maps_api.xml*
+
+<img src="./readme_resources/change-api-key-1-1.png" height=350 width=auto>
+
+<img src="./readme_resources/change-api-key-1-2.png" height=350 width=auto>
+
+*AndroidManifest.xml*
+
+<img src="./readme_resources/change-api-key-2-1.png" height=75 width=auto>
+
+<img src="./readme_resources/change-api-key-2-2.png" height=350 width=auto>
+
+<br>
+
+**Demo video**
+
 {VIDEO}
 
 <br>
@@ -50,7 +73,7 @@ Each review is saved in the Firebase Realtime Database as a [{UUID} - {text}] va
 
 | Android Studio | Kotlin | Google Maps Platform | Firebase |
 | ------ | ------ | ------ | ------ | 
-| <img src="./readme_resources/tech-logos/logo-android-studio.png" width=auto height=70> | <img src="./readme_resources/tech-logos/logo-kotlin.png" width=auto height=70> |  <img src="./readme_resources/tech-logos/logo-google-maps.png" width=auto height=70> | <img src="./readme_resources/tech-logos/logo-firebase.png" width=auto height=70> |
+| <div align="center"><img src="./readme_resources/tech-logos/logo-android-studio.png" width=auto height=70></div> | <div align="center"><img src="./readme_resources/tech-logos/logo-kotlin.png" width=auto height=70></div> |  <div align="center"><img src="./readme_resources/tech-logos/logo-google-maps.png" width=auto height=70></div> | <div align="center"><img src="./readme_resources/tech-logos/logo-firebase.png" width=auto height=70></div> |
 
 <br>
 
