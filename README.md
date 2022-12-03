@@ -59,7 +59,7 @@ Files in which to add the key:
 
 **Demo video**
 
-{VIDEO}
+https://user-images.githubusercontent.com/72694712/205411377-6b1998c0-fc19-4231-9486-11a3b34b0f04.mp4
 
 <br>
 
